@@ -8,3 +8,7 @@ The dataset is a whole (wild type) mouse hemisphere recording through optical im
 
 - Download the directory.
 - Run "MFSimulation.ipynb" with the jupyter notebook.
+
+## MOVIE
+
+The movie Movie_Inference_And_Simulation.mov is a demonstration of the inference and simulation procedure
