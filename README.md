@@ -11,4 +11,6 @@ The dataset is a whole (wild type) mouse hemisphere recording through optical im
 
 ## MOVIE
 
-The movie Movie_Inference_And_Simulation.mov is a demonstration of the inference and simulation procedure
+The movie "Movie_Inference_And_Simulation.mov" is a demonstration of the 2 steps inference and simulation procedure.
+The inference performs a data-constrained optimization of the parameters of the mean field model.
+The Mean Field simulation reproduces the dynamics observed in experiments.
